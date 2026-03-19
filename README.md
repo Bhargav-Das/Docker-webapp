@@ -1,6 +1,6 @@
 ## DOCKER-WEBAPP
 
-#Containerized Web Application with PostgreSQL using Docker Compose and IPvlan
+Containerized Web Application with PostgreSQL using Docker Compose and IPvlan
 
 Project Assignment 1 — Containerization and DevOps
 
