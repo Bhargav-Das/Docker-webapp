@@ -1,3 +1,7 @@
+---
+layout: default
+title: Docker WebApp
+---
 # DOCKER-WEBAPP
 
 Containerized Web Application with PostgreSQL using Docker Compose and IPvlan
