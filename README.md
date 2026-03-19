@@ -1,4 +1,6 @@
-## Containerized Web Application with PostgreSQL using Docker Compose and IPvlan
+# DOCKER-WEBAPP
+
+Containerized Web Application with PostgreSQL using Docker Compose and IPvlan
 
 Project Assignment 1 — Containerization and DevOps
 
@@ -372,4 +374,9 @@ It ensures scalability, portability, and reliable data persistence while followi
 
 ---
 
+## Author
 
+Bhargav Das
+System: bhargav@DESKTOP-QK0KB4I
+
+---
