@@ -374,9 +374,4 @@ It ensures scalability, portability, and reliable data persistence while followi
 
 ---
 
-## Author
 
-Bhargav Das
-System: bhargav@DESKTOP-QK0KB4I
-
----
